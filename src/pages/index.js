@@ -29,7 +29,7 @@ export default function Home() {
   return (
     <Layout
       title={`Welcome`}
-      description="Description will go into a meta tag in <head />">
+      description="Bongo, The language especially fine-designed for Nyannyacha Engine">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
