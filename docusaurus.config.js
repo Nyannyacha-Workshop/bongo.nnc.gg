@@ -9,7 +9,7 @@ const config = {
   title: 'Bongo',
   tagline: 'The Enhanced Language for make easier to modding everything of Minecraft',
   url: 'https://bongo.nnc.gg',
-  baseUrl: '/bongo.nnc.gg/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
