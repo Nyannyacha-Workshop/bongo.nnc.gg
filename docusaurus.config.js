@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Nyannyacha-Workshop', // Usually your GitHub org/user name.
-  projectName: 'bongo_docs', // Usually your repo name.
+  projectName: 'bongo.nnc.gg', // Usually your repo name.
 
   presets: [
     [
@@ -95,7 +95,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Nyannyacha-Workshop/bongo_docs',
+                href: 'https://github.com/Nyannyacha-Workshop/bongo.nnc.gg',
               },
             ],
           },
