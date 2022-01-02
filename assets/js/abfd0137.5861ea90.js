@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbongo_docs=self.webpackChunkbongo_docs||[]).push([[773],{8568:function(n){n.exports=JSON.parse('{"allTagsPath":"/bongo.nnc.gg/blog/tags","slug":"/bongo.nnc.gg/blog/tags/korean","name":"Korean","count":1,"permalink":"/bongo.nnc.gg/blog/tags/korean"}')}}]);

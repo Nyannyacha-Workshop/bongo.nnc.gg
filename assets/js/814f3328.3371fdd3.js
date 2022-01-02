@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbongo_docs=self.webpackChunkbongo_docs||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bongo is keep working!","permalink":"/blog/bongo is keep working"}]}')}}]);
