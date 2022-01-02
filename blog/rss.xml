@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Bongo Blog</title>
-        <link>https://bongo.nnc.gg/bongo.nnc.gg/blog</link>
+        <link>https://bongo.nnc.gg/blog</link>
         <description>Bongo Blog</description>
         <lastBuildDate>Mon, 03 Jan 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Bongo is keep working!]]></title>
-            <link>https://bongo.nnc.gg/bongo.nnc.gg/blog/bongo is keep working</link>
+            <link>https://bongo.nnc.gg/blog/bongo is keep working</link>
             <guid>bongo is keep working</guid>
             <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Bongo 는 냥냐챠 엔진만을 위해 특별하게 만들어진 마인크래프트 모딩 전용 언어다냥.]]></description>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbongo_docs=self.webpackChunkbongo_docs||[]).push([[873],{968:function(n){n.exports=JSON.parse('{"allTagsPath":"/bongo.nnc.gg/blog/tags","slug":"/bongo.nnc.gg/blog/tags/minecraft","name":"Minecraft","count":1,"permalink":"/bongo.nnc.gg/blog/tags/minecraft"}')}}]);

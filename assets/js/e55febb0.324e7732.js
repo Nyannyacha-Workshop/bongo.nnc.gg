@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbongo_docs=self.webpackChunkbongo_docs||[]).push([[940],{7967:function(o){o.exports=JSON.parse('{"permalink":"/bongo.nnc.gg/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bongo.nnc.gg/bongo.nnc.gg/blog</id>
+    <id>https://bongo.nnc.gg/blog</id>
     <title>Bongo Blog</title>
     <updated>2022-01-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bongo.nnc.gg/bongo.nnc.gg/blog"/>
+    <link rel="alternate" href="https://bongo.nnc.gg/blog"/>
     <subtitle>Bongo Blog</subtitle>
-    <icon>https://bongo.nnc.gg/bongo.nnc.gg/img/favicon.ico</icon>
+    <icon>https://bongo.nnc.gg/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Bongo is keep working!]]></title>
         <id>bongo is keep working</id>
-        <link href="https://bongo.nnc.gg/bongo.nnc.gg/blog/bongo is keep working"/>
+        <link href="https://bongo.nnc.gg/blog/bongo is keep working"/>
         <updated>2022-01-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Bongo 는 냥냐챠 엔진만을 위해 특별하게 만들어진 마인크래프트 모딩 전용 언어다냥.]]></summary>
         <content type="html"><![CDATA[<p>Bongo 는 냥냐챠 엔진만을 위해 특별하게 만들어진 마인크래프트 모딩 전용 언어다냥.</p><p><img src="banner.webp"/></p><p>이 페이지에 상세한 언어 스펙을 올릴 예정이다냥.<br/>

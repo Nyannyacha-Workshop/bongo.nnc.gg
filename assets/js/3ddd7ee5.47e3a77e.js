@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbongo_docs=self.webpackChunkbongo_docs||[]).push([[536],{8966:function(g){g.exports=JSON.parse('{"allTagsPath":"/bongo.nnc.gg/blog/tags","slug":"/bongo.nnc.gg/blog/tags/language","name":"Language","count":1,"permalink":"/bongo.nnc.gg/blog/tags/language"}')}}]);
