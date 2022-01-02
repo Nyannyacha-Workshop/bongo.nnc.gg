@@ -5,7 +5,7 @@
 </p>
 
 <p style="margin:0; font-weight: bold; font-size: 2rem;" align="center">Bongo</p>
-<p style="text-align: center;">
+<p align="center">
 The Enhanced Language for make easier to modding everything of 
 <span style="font-weight: bold;">Minecraft</span>
 </p>
