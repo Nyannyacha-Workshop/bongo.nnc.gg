@@ -23,14 +23,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/Nyannyacha-Workshop/bongo.nnc.gg/edit/master/',
         },
         blog: {
           showReadingTime: true,
           exclude: ['**/excluded/**'],
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Nyannyacha-Workshop/bongo.nnc.gg/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
