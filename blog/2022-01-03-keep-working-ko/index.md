@@ -1,6 +1,6 @@
 ---
 slug: bongo is keep working
-title: Bongo is keep working!
+title: (Korean) Bongo is keep working!
 authors: [nyannyacha]
 tags: [Korean, Language, Minecraft]
 ---
