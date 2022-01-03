@@ -42,10 +42,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Bongo',
         logo: {
           alt: 'Bongo Mascot',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
+          srcDark: 'img/logo_dark.svg'
         },
         items: [
           {
@@ -61,10 +61,10 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         logo: {
           alt: "Nyannyacha Engine",
-          src: 'img/nnc_engine.png'
+          src: 'img/nnc_engine_dark.png',
+          srcDark: 'img/nnc_engine.png'
         },
         links: [
           {
